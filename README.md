@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou Guilherme
 
-<!--
-**guilhermedosanjosilva77/guilhermedosanjosilva77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (SENAI)  
+📍 São Carlos - SP  
 
-Here are some ideas to get you started:
+## 💻 Sobre mim
+Sou estudante de ADS com foco em desenvolvimento de software, principalmente FrontEnd porém com leve flerte com BackEnd.
+Tenho experiência com JavaScript,Java, desenvolvimento de APIs REST,banco de dados MySQL e alguns FrameWorks como React.
+Busco oportunidade de estágio ou vaga júnior para aplicar e evoluir meus conhecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- Java
+- APIs REST
+- MySQL
+- JavaScript
+- React
+- HTML
+- CSS
+- Git & GitHub
+
+## 📂 Projetos em destaque
+-  Sistema de Locação de Quadras — Java + MySQL
+-  Projeto FullStack completo Prime Burguer - React + SpringBoot
+-  API REST com regras de negócio  
+-  Projetos Web com HTML e CSS  
+
+*(Links podem ser adicionados conforme desejar)*
+
+## 🤝 Projetos colaborativos
+- Projeto desenvolvido em colaboração com outro estudante, focado em boas práticas de programação e trabalho em equipe.
+
+## 📫 Contato
+📧 Email: dosanjosguilherme88@gmail.com
