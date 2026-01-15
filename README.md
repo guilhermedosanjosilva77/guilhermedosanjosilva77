@@ -24,7 +24,6 @@ Busco oportunidade de estágio ou vaga júnior para aplicar e evoluir meus conhe
 -  API REST com regras de negócio  
 -  Projetos Web com HTML e CSS  
 
-*(Links podem ser adicionados conforme desejar)*
 
 ##  Projetos colaborativos
 - Projeto desenvolvido em colaboração com outro estudante, focado em boas práticas de programação e trabalho em equipe.
