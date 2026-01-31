@@ -24,9 +24,5 @@ Busco oportunidade de estágio ou vaga júnior para aplicar e evoluir meus conhe
 -  API REST com regras de negócio  
 -  Projetos Web com HTML e CSS  
 
-
-##  Projetos colaborativos
-- Projeto desenvolvido em colaboração com outro estudante, focado em boas práticas de programação e trabalho em equipe.
-
 ## 📫 Contato
 📧 Email: dosanjosguilherme88@gmail.com
