@@ -5,11 +5,12 @@
 
 ##  Sobre mim
 Sou estudante de ADS com foco em desenvolvimento de software, principalmente FrontEnd porém com leve flerte com BackEnd.
-Tenho experiência com JavaScript,Java, desenvolvimento de APIs REST,banco de dados MySQL e alguns FrameWorks como React.
+Tenho experiência com JavaScript,Java, desenvolvimento de APIs REST,banco de dados MySQL e alguns FrameWorks como React e mais recentemente SpringBoot.
 Busco oportunidade de estágio ou vaga júnior para aplicar e evoluir meus conhecimentos.
 
 ##  Tecnologias
 - Java
+- SpringBoot
 - APIs REST
 - MySQL
 - JavaScript
